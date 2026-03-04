@@ -42,3 +42,4 @@ public class Task1{
         System.out.println("There are "+prime_number_count+" prime numbers between "+num1+" and "+num2);
     }
 }
+
